@@ -1,7 +1,0 @@
-# page 1
-
-x = 2
-y = 3
-z = 17
-
-print(x+y)
